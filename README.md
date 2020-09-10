@@ -7,13 +7,6 @@
 
 MRphish is a bash based script which is officially made for phish*ng instagram from tool no root. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/ighack.svg)](https://github.com/noob-hackers/mrphish)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/ighack.svg)](https://github.com/noob-hackers/mrphish)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/ighack.svg)](https://github.com/noob-hackers/mrphish)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#mrphish)
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 ![Screenshot_2020-06-22-18-53-12-214_com termux](https://user-images.githubusercontent.com/49580304/91927825-64922800-ec8f-11ea-9e64-dce26665c205.jpg)
 
 
@@ -41,13 +34,13 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/mrphish
+$ git clone https://github.com/HackTeachz/InstagramClone
 ```
 ```
 $ ls
 ```
 ```
-$ cd mrphish
+$ cd InstagramClone
 ```
 ```
 $ ls
@@ -65,35 +58,38 @@ $ bash mrphish
 * Note:- Don't delete any of the scripts included in core files
 
 ## 📌 ***Full video tutorial***:
+https://www.youtube.com/c/HackTeachz
 
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
+https://www.youtube.com/c/HackTeachz
 
 ### Chekout our webite:
-https://www.noob-hackers.com
+http://hackteachz.blogspot.com/
 
 ## 👥 ***Join***
 
 ### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
+https://www.facebook.com/HackTeachz/
 
 ### Telegram channel:
-https://t.me/noobhack
+https://t.me/HackTeachz/
 
 ### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
+https://www.facebook.com/HackTeachz/
 
 ### Instagram: 
-https://www.instagram.com/noobhackers352
+https://www.instagram.com/HackTeachz/
 
 ### Pinterest:
-https://in.pinterest.com/noobhackers
+https://in.pinterest.com/HackTeachz
 
 ### My GitHub ID link:
-https://www.github.com/noob-hackers
+https://www.github.com/HackTeachz/
 
 ### 📢 Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
+### credit HackTeachz (Pratik Jaypurkar
