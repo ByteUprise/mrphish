@@ -7,8 +7,6 @@
 
 MRphish is a bash based script which is officially made for phish*ng instagram from tool no root. This tool works on both rooted Android device and Non-rooted Android device.
 
-![Screenshot_2020-06-22-18-53-12-214_com termux](https://user-images.githubusercontent.com/49580304/91927825-64922800-ec8f-11ea-9e64-dce26665c205.jpg)
-
 
 ### 📌 ***MRphish is available for***:
 
